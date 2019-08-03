@@ -1,1 +1,1 @@
-# Hibernate5OneToOneMap
+# HibernateJPA
